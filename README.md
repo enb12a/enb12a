@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enb12a&label=Profile%20views&color=0e75b6&style=flat" alt="enb12a" /> </p>
 
-- 🔭 I’m currently working on **React-Native,Django**
+- 🔭 I’m currently working on **React-Native,Django,C#,.NET Core**
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **TypeScript, C#, ASP.NET (MVC) ,Entity Framework, .NET Framework, .NET Core**
 
 - 💬 Ask me about **React.Js , React-Native**
 
